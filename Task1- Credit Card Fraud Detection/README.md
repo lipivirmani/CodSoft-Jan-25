@@ -95,7 +95,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 
 ### **🔗 Repository Details**  
 📌 **Author:** Lipi Virmani 
-📌 **Dataset:** `fraudTest.csv`  
+📌 **Dataset:** "https://www.kaggle.com/datasets/kartik2112/fraud-detection"
 📌 **License:** MIT  
 📌 **Tech Stack:** Python, Pandas, Scikit-Learn, Seaborn, Matplotlib  
 
