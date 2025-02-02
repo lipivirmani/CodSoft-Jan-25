@@ -1,4 +1,4 @@
-### **Solution and Approach for Fraud Detection Model**  
+**Solution and Approach for Fraud Detection Model**  
 
 #### **📌 Introduction**  
 Fraud detection is a crucial task in financial security, requiring accurate classification of transactions as either fraudulent or legitimate. This project implements a **fraud detection model** using **machine learning algorithms** such as **Logistic Regression, Random Forest, and Gradient Boosting**. The model is trained on a dataset of transaction records, incorporating **feature engineering, preprocessing, and hyperparameter tuning** to enhance performance.
