@@ -104,4 +104,7 @@ This project successfully detects **spam messages** using **Machine Learning & N
 
 ---
 ## ** 👩‍💻 Author
-Project developed by Lipi Virmani as part of an internship at CODSOFT
+MIT License
+
+Copyright (c) [2025] [Lipi Virmani]
+Project developed as part of an internship at CODSOFT
