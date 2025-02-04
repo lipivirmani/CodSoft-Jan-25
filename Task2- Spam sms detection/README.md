@@ -108,4 +108,4 @@ MIT License
 
 Copyright (c) [2025] [Lipi Virmani]
 
-Project developed as part of an internship at CODSOFT
+Project developed as part of Machine Learning internship at CODSOFT
