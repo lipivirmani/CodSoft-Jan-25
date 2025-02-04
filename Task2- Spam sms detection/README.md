@@ -103,3 +103,5 @@ This project successfully detects **spam messages** using **Machine Learning & N
 🔹 Deploy as a **web application**  
 
 ---
+## ** 👩‍💻 Author
+Project developed by Lipi Virmani as part of an internship/research work.
