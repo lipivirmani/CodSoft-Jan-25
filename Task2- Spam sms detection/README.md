@@ -104,7 +104,6 @@ This project successfully detects **spam messages** using **Machine Learning & N
 
 ---
 ## ** 👩‍💻 Author
-MIT License
 
 Copyright (c) [2025] [Lipi Virmani]
 
