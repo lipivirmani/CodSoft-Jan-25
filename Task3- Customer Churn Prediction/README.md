@@ -19,9 +19,33 @@ This project aims to predict customer churn for a subscription-based business us
 - **Python**  
 - **Pandas, NumPy**  
 - **Scikit-Learn**  
-- **Matplotlib, Seaborn**  
+- **Matplotlib, Seaborn**
 
-- **Model Evaluation Metrics:**
+## 🔥 Usage
+1️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install pandas numpy scikit-learn matplotlib seaborn
+2️⃣ Run the Script
+bash
+Copy
+Edit
+python churn_prediction.py
+3️⃣ Predict a New Customer
+Modify the new_customer array to match the feature count:
+
+python
+Copy
+Edit
+new_customer = np.array([[0, 1, 60000, 1, 1, 2, 1, 1, 1, 0]])
+new_customer_df = pd.DataFrame(new_customer, columns=X.columns)
+new_customer_scaled = scaler.transform(new_customer_df)
+
+prediction = rf_clf.predict(new_customer_scaled)
+print("Churn Prediction:", "Churn" if prediction[0] == 1 else "Not Churn")
+
+**Model Evaluation Metrics:**
   - Accuracy
   - Precision
   - Recall
@@ -41,7 +65,7 @@ This project aims to predict customer churn for a subscription-based business us
   Churn Prediction: Not Churn
   ```
 
-## Installation & Usage
+## Installation 
 
 1. Clone the repository:
    ```sh
