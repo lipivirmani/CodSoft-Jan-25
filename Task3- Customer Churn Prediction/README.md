@@ -54,7 +54,7 @@ This project aims to predict customer churn for a subscription-based business us
    ```
 3. Run the Python script:
    ```sh
-   python churn_prediction.py
+   python customer_churn_prediction.py
    ```
 
 ## License
